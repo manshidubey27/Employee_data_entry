@@ -1,0 +1,41 @@
+table {
+    width: 70%;
+    border-collapse: collapse;
+    margin: 50px 0;
+    width: 100%;
+}
+table, th, td {
+    border: 2px solid black;
+} 
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+.error {
+    color: red;
+}
+.employee-img {
+    max-width: 100px;
+    max-height: 100px;
+}
+body{
+    background-color: rgb(182, 130, 231);
+}
+#employeeForm{
+    border: 5px ridge black;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    /* padding-left: 400px; */
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+h2{
+    padding-left: 459px;
+    background-color: #ccc;
+    font-family: 'Courier New', Courier, monospace;
+}
+tr{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
